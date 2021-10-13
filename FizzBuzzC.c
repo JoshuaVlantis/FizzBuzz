@@ -9,7 +9,6 @@ int main()
         {
             printf("FizzBuzz\n");
         }
-        
         else if (i % 3 == 0)
         {
             printf("Fizz\n");
@@ -19,7 +18,6 @@ int main()
         {
             printf("Buzz\n");
         }
-        
         else
         {
             printf("%d", i);
